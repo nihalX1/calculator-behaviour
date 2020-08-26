@@ -11,7 +11,7 @@ This project works out five features of a calculator:
 Each feature would consist of scenarios.
 Capture each scenario as:
 
-- initial condition (Given...)
+- initial condition fine(Given...)
 - event (When...)
 - effect (Then...)
 
