@@ -16,6 +16,6 @@ Capture each scenario as:
 - effect (Then...)
 
 Each feature is in a different markdown file.
-This template has one blank starting point.
+This template has one blank starting point for us.
 
 As always, avoid passive voice :)
